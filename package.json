@@ -4,7 +4,7 @@
   "description": "Fancy horizontal scrolling calendar for react",
   "author": "SethHamilton",
   "license": "MIT",
-  "repository": "beaverteeth/horizontal-calendar",
+  "repository": "https://github.com/beaverteeth/horizontal-calendar",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
