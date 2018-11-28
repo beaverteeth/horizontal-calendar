@@ -23,6 +23,10 @@ npm install --save horizontal-calendar
 - `selectedMode` - used to render with a selected period in conjunction with `selectedDate`. Options are `day`, `week`, `month`, `quarter` and `year`.
 - `selectedDate` - used to render with a selected period in conjunction with `selectedMode`. Can be Unix seconds or date in string format `YYYY-MM-DD` - note the calendar runs in UTC internally (without a timezone).
 
+> **Note**  this componenet uses [Scrollomatic](https://github.com/beaverteeth/scrollomatic) for horizontal scrolling with scrollbars that look the same on all platforms.
+
+## Example
+
 
 ```jsx
 import React, { Component } from 'react'

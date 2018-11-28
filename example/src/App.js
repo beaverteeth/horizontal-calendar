@@ -5,7 +5,7 @@ import HorizontalCalendar from 'horizontal-calendar'
 export default class App extends Component {
   render () {
     return (
-      <div>
+      <div style={{margin:50}}>
         <HorizontalCalendar
           showing={{
             years: true,
