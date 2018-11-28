@@ -1,6 +1,6 @@
 {
   "name": "horizontal-calendar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fancy horizontal scrolling calendar for react",
   "author": "SethHamilton",
   "license": "MIT",
