@@ -4,6 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/horizontal-calendar.svg)](https://www.npmjs.com/package/horizontal-calendar) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+> :baby_bottle: `HorizontalCalendar` is in alpha
+
 ## Install
 
 ```bash
