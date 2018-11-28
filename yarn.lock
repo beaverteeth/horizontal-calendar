@@ -7599,8 +7599,8 @@ schema-utils@^0.3.0:
     ajv "^5.0.0"
 
 scrollomatic@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/scrollomatic/-/scrollomatic-1.0.2.tgz#253d2c050b793735abebfcef247047d539c53eaa"
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/scrollomatic/-/scrollomatic-1.0.4.tgz#ac9125d841cfe6f1ca4502892a6d091eeebb505a"
   dependencies:
     normalize-wheel "^1.0.1"
 

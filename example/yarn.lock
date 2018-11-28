@@ -4604,6 +4604,10 @@ normalize-url@^1.4.0:
     query-string "^4.1.0"
     sort-keys "^1.0.0"
 
+normalize-wheel@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/normalize-wheel/-/normalize-wheel-1.0.1.tgz#aec886affdb045070d856447df62ecf86146ec45"
+
 npm-bundled@^1.0.1:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/npm-bundled/-/npm-bundled-1.0.5.tgz#3c1732b7ba936b3a10325aef616467c0ccbcc979"
@@ -5901,6 +5905,12 @@ schema-utils@^0.3.0:
   resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-0.3.0.tgz#f5877222ce3e931edae039f17eb3716e7137f8cf"
   dependencies:
     ajv "^5.0.0"
+
+scrollomatic@^1.0.2:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/scrollomatic/-/scrollomatic-1.0.3.tgz#4c2bf0d4351415ac9bd4e2fe7ca4289cce53239c"
+  dependencies:
+    normalize-wheel "^1.0.1"
 
 select-hose@^2.0.0:
   version "2.0.0"
